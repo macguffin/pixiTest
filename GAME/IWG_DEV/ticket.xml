@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ticket>
+    <outcome prizeTier="0" amount="0.00" isWinner="0"/>
+    <params/>
+    <games>
+        <game name="demo">
+            <turn name="t0" value="0.00"/>
+        </game>
+    </games>
+</ticket>

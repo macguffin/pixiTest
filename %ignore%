@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+_assets
+doc
+node_modules
+build
+bin
+GAME/IWG
+Gruntfile_setup.js

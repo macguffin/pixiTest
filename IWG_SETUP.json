@@ -1,0 +1,12 @@
+{
+  "/0/": "CHANGE - game name displayed in index",
+  "GAME_TITLE": "Game Tile for index",
+  "/1/": "CHANGE - name used for code references use camelCase or PascalCase",
+  "GAME_NAME": "GAME_NAME",
+  "/2/": "CHANGE - of css file use camelCase or PascalCase",
+  "CSS_NAME": "CSS_NAME",
+  "/3/": "CHECK - orientation of game L(landscape) P(portrait) or DL(dual layout)",
+  "ORIENTATION": "L",
+  "/5/": "DEFAULT - set MIWGbuild.json ____basepath",
+  "DEV_BASE_PATH": "IWG_DEV"
+}

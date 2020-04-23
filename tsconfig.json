@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./GAME/IWG/src",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "esModuleInterop": true
+  }
+}
+
+

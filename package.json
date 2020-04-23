@@ -1,0 +1,46 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack -p --mode=production",
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "clean-terminal-webpack-plugin": "^2.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "grunt": "^1.1.0",
+    "grunt-contrib-rename": "^0.2.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-replace": "^1.0.1",
+    "grunt-concat-include": "^0.2.4",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compress": "^1.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-max-filesize": "^0.1.1",
+    "grunt-text-replace": "^0.4.0",
+    "jshint-html-reporter": "^0.2.4",
+    "logfile-grunt": "^0.2.0",
+    "javascript-state-machine": "^3.1.0",
+    "lodash": "^4.17.5",
+    "ts-loader": "^6.2.1",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.0",
+    "webpack-bundle-analyzer": "^3.6.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "ts-lint": "^4.5.1"
+  }
+}
