@@ -28,7 +28,7 @@
     "jshint-html-reporter": "^0.2.4",
     "logfile-grunt": "^0.2.0",
     "javascript-state-machine": "^3.1.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "ts-loader": "^6.2.1",
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.15.0",
